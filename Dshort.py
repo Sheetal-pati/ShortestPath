@@ -1,6 +1,4 @@
-# Python program for Dijkstra's single 
-# source shortest path algorithm. The program is 
-# for adjacency matrix representation of the graph
+
  
 # Library for INT_MAX
 import sys
@@ -79,5 +77,4 @@ g.graph = [[0, 4, 0, 0, 0, 0, 0, 8, 0],
           ];
  
 g.dijkstra(0);
- 
-# This code is contributed by Divyanshu Mehta
+
